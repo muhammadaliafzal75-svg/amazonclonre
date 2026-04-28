@@ -2,10 +2,4 @@
 
 
 
-
-
-
-
-
-
 # amazonclonre
